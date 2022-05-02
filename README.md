@@ -9,3 +9,28 @@ with the highest.
 2. Cube 
 Application that determines a cube's volume and surface area based on the user input for the
 length of a side of a cube. 
+
+
+What I learned:
+
+GIT commands: 
+git init
+git add .
+git add fileName
+git commit -m "first commit"
+git branch -M main
+git remote add origin URL
+git push -u origin main
+create git ignore file
+
+Java:
+creating class
+creating constructor
+creating class return method
+creating private member for class
+creating driver class
+Mod operation
+for loop
+using arrays
+java doc: commenting code , generating java doc
+
