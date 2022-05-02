@@ -11,26 +11,26 @@ Application that determines a cube's volume and surface area based on the user i
 length of a side of a cube. 
 
 
-What I learned:
+What I learned: <br />
 
 GIT commands: <br />
-git init
-git add .
-git add fileName
-git commit -m "first commit"
-git branch -M main
-git remote add origin URL
-git push -u origin main
-create git ignore file
+git init <br />
+git add . <br />
+git add fileName <br />
+git commit -m "first commit" <br />
+git branch -M main <br />
+git remote add origin URL <br />
+git push -u origin main <br />
+create git ignore file <br />
 
-Java:
-creating class
-creating constructor
-creating class return method
-creating private member for class
-creating driver class
-Mod operation
-for loop
-using arrays
-java doc: commenting code , generating java doc
+Java: <br />
+creating class <br />
+creating constructor <br />
+creating class return method <br />
+creating private member for class <br />
+creating driver class <br />
+Mod operation <br />
+for loop <br />
+using arrays <br />
+java doc: commenting code , generating java doc <br />
 
