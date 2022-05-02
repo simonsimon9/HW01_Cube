@@ -13,7 +13,7 @@ length of a side of a cube.
 
 What I learned:
 
-GIT commands: 
+GIT commands: <br />
 git init
 git add .
 git add fileName
