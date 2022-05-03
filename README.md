@@ -1,5 +1,5 @@
-**Homework_1 **<br />
-**by simon kuang **<br />
+<strong>Homework_1</strong><br />
+<strong/>by simon kuang </strong><br />
 
 **Change Calculator**
 Application that promps for and reads a double value representing a monetary amount. The program
